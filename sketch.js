@@ -3,7 +3,7 @@ var box1;
 
 function setup() 
 {
-  createCanvas(1500, 800);
+  createCanvas(600, 400);
   box1 = new Box();
 }
 
